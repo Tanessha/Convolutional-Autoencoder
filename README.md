@@ -82,13 +82,10 @@ def train(model, loader, criterion, optimizer, epochs=5):
 ## OUTPUT
 
 ### Model Summary
-![image](https://github.com/user-attachments/assets/0befdead-6c4a-4fad-a6be-647e9ecd89c8)
+![image](https://github.com/user-attachments/assets/bb3c4af3-a656-4986-a975-a01fdd47e405)
 
 ### Original vs Noisy Vs Reconstructed Image
-
-![Screenshot 2025-05-13 175028](https://github.com/user-attachments/assets/3d5cfdc2-508b-44ea-8af0-d49d57c10aab)
-
-
+![image](https://github.com/user-attachments/assets/0befdead-6c4a-4fad-a6be-647e9ecd89c8)
 
 ## RESULT
 The trained autoencoder successfully removes noise from corrupted MNIST digits.
