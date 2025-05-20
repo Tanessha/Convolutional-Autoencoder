@@ -33,8 +33,8 @@ Evaluate the model and visualize results by comparing original, noisy, and denoi
 Write your own steps
 
 ## PROGRAM
-### Name: ARCHANA S
-### Register Number: 212223040019
+### Name: TANESSHA KANNAN
+### Register Number: 212223040225
 ```
 class DenoisingAutoencoder(nn.Module):
     def __init__(self):
@@ -82,8 +82,7 @@ def train(model, loader, criterion, optimizer, epochs=5):
 ## OUTPUT
 
 ### Model Summary
-![Screenshot 2025-05-13 175002](https://github.com/user-attachments/assets/9c26a71d-d6fc-4872-8418-091500570115)
-
+![image](https://github.com/user-attachments/assets/0befdead-6c4a-4fad-a6be-647e9ecd89c8)
 
 ### Original vs Noisy Vs Reconstructed Image
 
